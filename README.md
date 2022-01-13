@@ -2,6 +2,14 @@
 
 Flutter
 
+
+**Android App links**
+
+Customer: https://play.google.com/store/apps/details?id=com.tj.mvmcustomer&hl=en_US&gl=US
+
+Vendor : https://play.google.com/store/apps/details?id=com.tj.mvmvendor&hl=en_US&gl=US 
+
+
 **Description**
 
 This project used for providing various types of vehicle services.
@@ -16,6 +24,3 @@ Stripe payment method
 Live tracking
 Push Notification
 Service booking management
-Below are the links of the both app
-Customer: https://play.google.com/store/apps/details?id=com.tj.mvmcustomer&hl=en_US&gl=US
-Vendor : https://play.google.com/store/apps/details?id=com.tj.mvmvendor&hl=en_US&gl=US 
